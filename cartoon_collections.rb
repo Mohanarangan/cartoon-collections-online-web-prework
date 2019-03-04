@@ -21,7 +21,7 @@ end
 def find_the_cheese(array)
   # the array below is here to help
   
-  array.include?()
+  array.include?("cheddar")
 end
 
 
