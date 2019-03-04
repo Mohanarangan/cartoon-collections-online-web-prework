@@ -18,7 +18,7 @@ array.any? do |word|
 end
 end
 
-def find_the_cheese(cheese_types)
+def find_the_cheese(array)
   # the array below is here to help
   
   cheese_types.include?(cheese_types[0])
