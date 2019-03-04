@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls(array)
   # Your code here .any
-array.length 
+array.any 
 end
 
 def find_the_cheese(cheese_types)
