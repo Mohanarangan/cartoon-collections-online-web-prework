@@ -19,7 +19,7 @@ end
 end
 
 def find_the_cheese(array)
-  # the array below is here to help
+
   
   array.include?(index[0])
 end
