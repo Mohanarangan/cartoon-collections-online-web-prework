@@ -26,11 +26,11 @@ found_snack = nil
       found_snack << "cheddar"
     else
     end
-    found_snack
-  
-  end
     
-  cheeses.include?(found_snack)
+    found_snack
+    end
+    
+    cheeses.include?(found_snack)
   
 end
 
