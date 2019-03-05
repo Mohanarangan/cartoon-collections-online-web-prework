@@ -24,7 +24,7 @@ cheeses = ["cheddar", "gouda","camembert"]
 found_snack = []
 binding.pry
   cheeses.each do |cheese|
-    if cheese == ["cheddar", "gouda","camembert"].include
+    if cheese == cheeses.include
       found_snack << "cheddar"
   
     end
