@@ -30,7 +30,7 @@ found_snack = []
     end
     
     end
-    found_snack(cheese)
+    found_snack.to_s
     
 end
 
