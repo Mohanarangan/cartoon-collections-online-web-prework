@@ -27,9 +27,9 @@ found_snack = []
     else
     end
     
-    found_snack
-    end
     
+    end
+    found_snack
     cheeses.include?(found_snack)
   
 end
