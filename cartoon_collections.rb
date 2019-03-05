@@ -30,7 +30,7 @@ found_snack = []
     found_snack
     end
     
-    cheeses.include?(found_snack)
+    cheeses.include?(found_snack[0])
   
 end
 
