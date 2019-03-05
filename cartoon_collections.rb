@@ -21,7 +21,7 @@ end
 
 def find_the_cheese(array)
 cheeses = ["cheddar", "gouda","camembert"]
-found_snack = []
+found_snack = nil
 
   cheeses.each do |cheese|
     if array.include?(cheese)
@@ -30,7 +30,7 @@ found_snack = []
     end
     
     end
-    found_snack.to_s
+    found_snack
     
 end
 
