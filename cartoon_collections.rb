@@ -18,7 +18,7 @@ array.any? do |word|
 end
 end
 
-def find_the_cheese(array)
+def find_the_cheese(cheeses)
 cheeses = ["cheddar", "gouda","camembert"]
 found_snack = nil
   cheeses.each do |cheese|
