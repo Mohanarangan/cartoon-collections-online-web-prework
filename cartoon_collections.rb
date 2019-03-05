@@ -25,7 +25,7 @@ found_snack = nil
 
   cheeses.each do |cheese|
     if array.include?(cheese)
-      found_snack << cheese
+      found_snack = cheese
   
     end
     
