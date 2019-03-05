@@ -26,6 +26,7 @@ found_snack = nil
       found_snack << "cheddar"
     else
     end
+  end
     found_snack
   
   cheeses.include?(found_snack)
