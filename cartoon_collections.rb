@@ -24,7 +24,7 @@ found_snack = []
   cheeses.each do |cheese|
     if cheese == "cheddar"
       found_snack << "cheddar"
-    else
+  
     end
     
     end
