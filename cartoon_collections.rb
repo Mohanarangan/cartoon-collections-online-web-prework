@@ -30,7 +30,6 @@ found_snack = nil
   
   end
     
-  
   cheeses.include?(found_snack)
   
 end
