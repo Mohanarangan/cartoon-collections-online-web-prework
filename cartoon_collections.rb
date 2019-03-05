@@ -20,6 +20,7 @@ end
 
 def find_the_cheese(array)
 cheeses = ["cheddar", "gouda","camembert"]
+found_snack = nil
   cheeses.each do |cheese|
     
   
