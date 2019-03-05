@@ -22,7 +22,7 @@ end
 def find_the_cheese(array)
 cheeses = ["cheddar", "gouda","camembert"]
 found_snack = []
-binding.pry
+
   cheeses.each do |cheese|
     if array.include?(cheese)
       found_snack << cheese
