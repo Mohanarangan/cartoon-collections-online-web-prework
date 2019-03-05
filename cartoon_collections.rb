@@ -24,7 +24,9 @@ found_snack = nil
   cheeses.each do |cheese|
     if cheese == "cheddar"
       found_snack << "cheddar"
-  
+    else
+    end
+    found_snack
   
   cheeses.include?("cheddar")
   
